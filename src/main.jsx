@@ -4,7 +4,5 @@ import { GitExpertApp } from './gitExpertApp'
 import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
     <GitExpertApp/>
-  </React.StrictMode>,
 )
